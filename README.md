@@ -12,13 +12,13 @@ corrections as possible.
 
 Play the latest published version here:
 
-[https://patriciali-jpg.github.io/sm-codex-toolkit/](https://patriciali-jpg.github.io/sm-codex-toolkit/)
+[https://patriciali-jpg.github.io/orbit-sudoku/](https://patriciali-jpg.github.io/orbit-sudoku/)
 
 ## Git Repository
 
 Source code:
 
-[https://github.com/PatriciaLi-JPG/sm-codex-toolkit/tree/master/examples/orbit-sudoku](https://github.com/PatriciaLi-JPG/sm-codex-toolkit/tree/master/examples/orbit-sudoku)
+[https://github.com/PatriciaLi-JPG/orbit-sudoku](https://github.com/PatriciaLi-JPG/orbit-sudoku)
 
 ## Game Description
 

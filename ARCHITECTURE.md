@@ -54,7 +54,7 @@ The publishing flow is:
 
 The expected public URL is:
 
-[https://patriciali-jpg.github.io/sm-codex-toolkit/](https://patriciali-jpg.github.io/sm-codex-toolkit/)
+[https://patriciali-jpg.github.io/orbit-sudoku/](https://patriciali-jpg.github.io/orbit-sudoku/)
 
 ## AI Tooling Used
 
