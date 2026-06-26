@@ -1,10 +1,5 @@
 image: nexus3.int.rclabenv.com/ringcentral/web-tools:node20-openjdk17-alpine
 
-default:
-  tags:
-    - ags-runner
-    - deploy
-
 stages:
   - test
   - deploy
