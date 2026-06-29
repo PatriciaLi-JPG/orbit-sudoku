@@ -7,7 +7,8 @@
 - TypeScript for typed game-state logic.
 - Vitest for unit tests.
 - Lucide React for interface icons.
-- GitHub Pages for one-click playable hosting.
+- GitLab Pages for the challenge-visible playable build.
+- GitHub Pages for backup playable hosting.
 
 ## Architecture Overview
 
@@ -43,7 +44,8 @@ tested in isolation before UI polish was added.
 ## Deployment Design
 
 The app can be hosted by any static file server. For this repository, the
-playable build is published through GitHub Pages.
+playable build is published through GitLab Pages so the challenge monitor can
+verify it. GitHub Pages is kept as a backup mirror.
 
 The publishing flow is:
 
@@ -52,8 +54,11 @@ The publishing flow is:
 3. Build with `npm run build:pages`.
 4. Publish the generated `dist` directory as the static site.
 
-The expected public URL is:
+The expected public URLs are:
 
+- GitLab Pages:
+[http://patricia-li-orbit-sudoku-59aa7a.pages.git.ringcentral.com/](http://patricia-li-orbit-sudoku-59aa7a.pages.git.ringcentral.com/)
+- GitHub Pages backup:
 [https://patriciali-jpg.github.io/orbit-sudoku/](https://patriciali-jpg.github.io/orbit-sudoku/)
 
 ## AI Tooling Used
@@ -73,7 +78,7 @@ The expected public URL is:
 5. Update tests to cover the new behavior.
 6. Update documentation to match the challenge requirements.
 7. Run tests and production build.
-8. Push source code and deployment branch to GitHub.
+8. Push source code and deployment output to GitLab and GitHub.
 
 ## Quality Strategy
 
