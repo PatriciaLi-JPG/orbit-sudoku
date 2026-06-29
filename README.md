@@ -12,8 +12,8 @@ corrections as possible.
 
 Play the latest published version here:
 
-- GitLab Pages: [http://patricia-li-orbit-sudoku.pages.git.ringcentral.com/](http://patricia-li-orbit-sudoku.pages.git.ringcentral.com/)
-- GitHub Pages fallback: [https://patriciali-jpg.github.io/orbit-sudoku/](https://patriciali-jpg.github.io/orbit-sudoku/)
+- Playable public demo: [https://patriciali-jpg.github.io/orbit-sudoku/](https://patriciali-jpg.github.io/orbit-sudoku/)
+- GitLab Pages mirror: [http://patricia-li-orbit-sudoku.pages.git.ringcentral.com/](http://patricia-li-orbit-sudoku.pages.git.ringcentral.com/)
 
 ## Git Repository
 
