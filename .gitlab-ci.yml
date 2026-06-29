@@ -3,9 +3,6 @@ stages:
 
 pages:
   stage: deploy
-  tags:
-    - ags-runner
-    - deploy
   script:
     - echo "Publishing Orbit Sudoku from prebuilt static files"
   artifacts:
